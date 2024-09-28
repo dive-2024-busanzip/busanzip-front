@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/busanzip-front/static/js/main.869ce1f2.js",
+    "main.js": "/busanzip-front/static/js/main.03101f8d.js",
     "static/js/453.4d4ab638.chunk.js": "/busanzip-front/static/js/453.4d4ab638.chunk.js",
     "index.html": "/busanzip-front/index.html",
-    "main.869ce1f2.js.map": "/busanzip-front/static/js/main.869ce1f2.js.map",
+    "main.03101f8d.js.map": "/busanzip-front/static/js/main.03101f8d.js.map",
     "453.4d4ab638.chunk.js.map": "/busanzip-front/static/js/453.4d4ab638.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.869ce1f2.js"
+    "static/js/main.03101f8d.js"
   ]
 }
