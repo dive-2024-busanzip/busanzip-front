@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/busanzip-front/static/css/main.f855e6bc.css",
-    "main.js": "/busanzip-front/static/js/main.ac8501c2.js",
+    "main.js": "/busanzip-front/static/js/main.869ce1f2.js",
     "static/js/453.4d4ab638.chunk.js": "/busanzip-front/static/js/453.4d4ab638.chunk.js",
-    "static/media/logo.svg": "/busanzip-front/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/busanzip-front/index.html",
-    "main.f855e6bc.css.map": "/busanzip-front/static/css/main.f855e6bc.css.map",
-    "main.ac8501c2.js.map": "/busanzip-front/static/js/main.ac8501c2.js.map",
+    "main.869ce1f2.js.map": "/busanzip-front/static/js/main.869ce1f2.js.map",
     "453.4d4ab638.chunk.js.map": "/busanzip-front/static/js/453.4d4ab638.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ac8501c2.js"
+    "static/js/main.869ce1f2.js"
   ]
 }
