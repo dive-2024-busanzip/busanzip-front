@@ -1,29 +1,25 @@
 //App.js
-import { Route, Link, Routes } from "react-router-dom";
+import { Route, Routes, useLocation } from "react-router-dom";
 
 //routing components
 import { Main } from "@pages/Main";
 import { Map } from "@pages/Map";
+import { ROUTES } from "@constants/routes";
+import MainLayout from "@components/common/Layout/Main";
+import MapLayout from "@components/common/Layout/Map";
 
 function App() {
-  console.log(process.env.REACT_APP_GOOGLE_MAPS_API_KEY);
+  const location = useLocation();
   return (
-    <div className="App">
-      <div>
-        <p>
-          <Link to="/">Main</Link>
-        </p>
-        <p>
-          <Link to="/map">Map</Link>
-        </p>
-      </div>
-      <div>
-        <Routes>
-          <Route path="/" element={<Main />} />
-          <Route path="/map" element={<Map />} />
-        </Routes>
-      </div>
-    </div>
+    <>
+      {location.pathname === ROUTES.MAIN ? <MainLayout /> : <MapLayout />}
+      <Routes>
+        <Route path={ROUTES.MAIN} element={<Main />} />
+        <Route path={ROUTES.STAY} element={<Map />} />
+        <Route path={ROUTES.TEAVEL} element={<Map />} />
+        <Route path={ROUTES.AROUND} element={<Map />} />
+      </Routes>
+    </>
   );
 }
 
