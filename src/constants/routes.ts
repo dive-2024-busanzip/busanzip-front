@@ -1,4 +1,6 @@
 export const ROUTES = {
-  MAIN: "/",
-  MAP: "/map",
+  MAIN: "/", // 메인
+  STAY: "/map/s", // 정착
+  TEAVEL: "/map/t", // 관광
+  AROUND: "/map/a", // 내 주변
 };
