@@ -48,7 +48,6 @@ export const Navigation = () => {
 export default Navigation;
 
 const Wrapper = styled.div`
-  box-shadow: ${(props) => props.theme.boxShadow};
   position: fixed;
   z-index: 99;
   width: 80px;
