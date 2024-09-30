@@ -1,24 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+//App.js
+import { Route, Link, Routes } from "react-router-dom";
+
+//routing components
+import { Main } from "@pages/Main";
+import { Map } from "@pages/Map";
 
 function App() {
+  console.log(process.env.REACT_APP_GOOGLE_MAPS_API_KEY);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <div>
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          <Link to="/">Main</Link>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <p>
+          <Link to="/map">Map</Link>
+        </p>
+      </div>
+      <div>
+        <Routes>
+          <Route path="/" element={<Main />} />
+          <Route path="/map" element={<Map />} />
+        </Routes>
+      </div>
     </div>
   );
 }
