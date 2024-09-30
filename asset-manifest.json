@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/busanzip-front/static/js/main.a78b0b18.js",
+    "main.js": "/busanzip-front/static/js/main.8b90b8af.js",
     "static/js/453.4d4ab638.chunk.js": "/busanzip-front/static/js/453.4d4ab638.chunk.js",
     "static/media/Pretendard-Thin.ttf": "/busanzip-front/static/media/Pretendard-Thin.23965237737042c7c087.ttf",
     "static/media/Pretendard-Regular.ttf": "/busanzip-front/static/media/Pretendard-Regular.fbe5b096111efa3e3bc2.ttf",
@@ -18,10 +18,12 @@
     "static/media/location.svg": "/busanzip-front/static/media/location.c2d9f370f9927a35f8fa7ac8566671b8.svg",
     "static/media/building.svg": "/busanzip-front/static/media/building.c70118e1df0b844c454034384d9f48f9.svg",
     "index.html": "/busanzip-front/index.html",
-    "main.a78b0b18.js.map": "/busanzip-front/static/js/main.a78b0b18.js.map",
+    "static/media/arrow-right.svg": "/busanzip-front/static/media/arrow-right.f401f1a40bac21915da14be966f58ebd.svg",
+    "static/media/arrow-left.svg": "/busanzip-front/static/media/arrow-left.45994823b0d32586e0f4749a2eb0a788.svg",
+    "main.8b90b8af.js.map": "/busanzip-front/static/js/main.8b90b8af.js.map",
     "453.4d4ab638.chunk.js.map": "/busanzip-front/static/js/453.4d4ab638.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.a78b0b18.js"
+    "static/js/main.8b90b8af.js"
   ]
 }
