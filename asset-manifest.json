@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/busanzip-front/static/js/main.da9f818c.js",
+    "main.js": "/busanzip-front/static/js/main.4acf33f8.js",
     "static/js/453.4d4ab638.chunk.js": "/busanzip-front/static/js/453.4d4ab638.chunk.js",
     "static/media/Pretendard-Thin.ttf": "/busanzip-front/static/media/Pretendard-Thin.23965237737042c7c087.ttf",
     "static/media/Pretendard-Regular.ttf": "/busanzip-front/static/media/Pretendard-Regular.fbe5b096111efa3e3bc2.ttf",
@@ -20,10 +20,10 @@
     "index.html": "/busanzip-front/index.html",
     "static/media/arrow-right.svg": "/busanzip-front/static/media/arrow-right.f401f1a40bac21915da14be966f58ebd.svg",
     "static/media/arrow-left.svg": "/busanzip-front/static/media/arrow-left.45994823b0d32586e0f4749a2eb0a788.svg",
-    "main.da9f818c.js.map": "/busanzip-front/static/js/main.da9f818c.js.map",
+    "main.4acf33f8.js.map": "/busanzip-front/static/js/main.4acf33f8.js.map",
     "453.4d4ab638.chunk.js.map": "/busanzip-front/static/js/453.4d4ab638.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.da9f818c.js"
+    "static/js/main.4acf33f8.js"
   ]
 }
