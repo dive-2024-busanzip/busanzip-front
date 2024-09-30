@@ -7,6 +7,7 @@ import { QueryClient, QueryClientProvider } from "react-query";
 import { ThemeProvider } from "styled-components";
 import theme from "@styles/theme";
 import GlobalStyle from "@styles/globalStyles";
+import { RecoilRoot } from "recoil";
 
 const client = new QueryClient();
 const root = ReactDOM.createRoot(
@@ -15,14 +16,16 @@ const root = ReactDOM.createRoot(
 
 root.render(
   <React.StrictMode>
-    <QueryClientProvider client={client}>
-      <ThemeProvider theme={theme}>
-        <BrowserRouter basename={process.env.PUBLIC_URL}>
-          <GlobalStyle />
-          <App />
-        </BrowserRouter>
-      </ThemeProvider>
-    </QueryClientProvider>
+    <RecoilRoot>
+      <QueryClientProvider client={client}>
+        <ThemeProvider theme={theme}>
+          <BrowserRouter basename={process.env.PUBLIC_URL}>
+            <GlobalStyle />
+            <App />
+          </BrowserRouter>
+        </ThemeProvider>
+      </QueryClientProvider>
+    </RecoilRoot>
   </React.StrictMode>
 );
 
