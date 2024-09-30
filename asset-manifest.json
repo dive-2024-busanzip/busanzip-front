@@ -1,12 +1,27 @@
 {
   "files": {
-    "main.js": "/busanzip-front/static/js/main.d93fc2c5.js",
+    "main.js": "/busanzip-front/static/js/main.04a9e200.js",
     "static/js/453.4d4ab638.chunk.js": "/busanzip-front/static/js/453.4d4ab638.chunk.js",
+    "static/media/Pretendard-Thin.ttf": "/busanzip-front/static/media/Pretendard-Thin.23965237737042c7c087.ttf",
+    "static/media/Pretendard-Regular.ttf": "/busanzip-front/static/media/Pretendard-Regular.fbe5b096111efa3e3bc2.ttf",
+    "static/media/Pretendard-Bold.ttf": "/busanzip-front/static/media/Pretendard-Bold.be4e300c014733a8521f.ttf",
+    "static/media/Pretendard-Bold.woff": "/busanzip-front/static/media/Pretendard-Bold.1f1dbbbf311ffffcc770.woff",
+    "static/media/Pretendard-Regular.woff": "/busanzip-front/static/media/Pretendard-Regular.303253288b0ba99db532.woff",
+    "static/media/Pretendard-Thin.woff": "/busanzip-front/static/media/Pretendard-Thin.e7b3f421a3a379ef4137.woff",
+    "static/media/Pretendard-Bold.woff2": "/busanzip-front/static/media/Pretendard-Bold.0c6f5e225ff28f456183.woff2",
+    "static/media/Pretendard-Regular.woff2": "/busanzip-front/static/media/Pretendard-Regular.38bed7de46e7b9049ced.woff2",
+    "static/media/Pretendard-Thin.woff2": "/busanzip-front/static/media/Pretendard-Thin.bb7cedf4446fa24dda9d.woff2",
+    "static/media/busanzip-logo-dark.png": "/busanzip-front/static/media/busanzip-logo-dark.12b61698442ade2a4fd5.png",
+    "static/media/busanzip-logo-light.png": "/busanzip-front/static/media/busanzip-logo-light.3f6f9ec8e79c848d1cc8.png",
+    "static/media/location-recommand.svg": "/busanzip-front/static/media/location-recommand.112fd565adf337217d0366fbd32b9572.svg",
+    "static/media/travel.svg": "/busanzip-front/static/media/travel.0c9d1943073c15e583673591e46f3e82.svg",
+    "static/media/location.svg": "/busanzip-front/static/media/location.c2d9f370f9927a35f8fa7ac8566671b8.svg",
+    "static/media/building.svg": "/busanzip-front/static/media/building.c70118e1df0b844c454034384d9f48f9.svg",
     "index.html": "/busanzip-front/index.html",
-    "main.d93fc2c5.js.map": "/busanzip-front/static/js/main.d93fc2c5.js.map",
+    "main.04a9e200.js.map": "/busanzip-front/static/js/main.04a9e200.js.map",
     "453.4d4ab638.chunk.js.map": "/busanzip-front/static/js/453.4d4ab638.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.d93fc2c5.js"
+    "static/js/main.04a9e200.js"
   ]
 }
