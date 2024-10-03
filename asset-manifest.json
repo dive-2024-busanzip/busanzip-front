@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/busanzip-front/static/js/main.6ba9a7a5.js",
+    "main.js": "/busanzip-front/static/js/main.35f9ba5f.js",
     "static/js/453.4d4ab638.chunk.js": "/busanzip-front/static/js/453.4d4ab638.chunk.js",
     "static/media/Pretendard-Thin.ttf": "/busanzip-front/static/media/Pretendard-Thin.23965237737042c7c087.ttf",
     "static/media/Pretendard-Regular.ttf": "/busanzip-front/static/media/Pretendard-Regular.fbe5b096111efa3e3bc2.ttf",
@@ -13,22 +13,25 @@
     "static/media/Pretendard-Thin.woff2": "/busanzip-front/static/media/Pretendard-Thin.bb7cedf4446fa24dda9d.woff2",
     "static/media/busanzip-logo-dark.png": "/busanzip-front/static/media/busanzip-logo-dark.12b61698442ade2a4fd5.png",
     "static/media/busanzip-logo-light.png": "/busanzip-front/static/media/busanzip-logo-light.3f6f9ec8e79c848d1cc8.png",
-    "static/media/festival.svg": "/busanzip-front/static/media/festival.7e225504af0bfb1ac2bfddc37136edcf.svg",
+    "static/media/star.svg": "/busanzip-front/static/media/star.7e225504af0bfb1ac2bfddc37136edcf.svg",
+    "static/media/tourist_attraction.svg": "/busanzip-front/static/media/tourist_attraction.475286b6ad754e44c8425d059e14d124.svg",
+    "static/media/experience.svg": "/busanzip-front/static/media/experience.90d65fedf8597b07a74bf7a04d86c0d9.svg",
     "static/media/location-recommand.svg": "/busanzip-front/static/media/location-recommand.112fd565adf337217d0366fbd32b9572.svg",
     "static/media/s1.svg": "/busanzip-front/static/media/s1.5ecad86f6769283e5c6a643d2d853333.svg",
     "static/media/s2.svg": "/busanzip-front/static/media/s2.014ea4b2f6e14c267bdc04f146ed2cde.svg",
     "static/media/s3.svg": "/busanzip-front/static/media/s3.90c0e7970cc359a66912f63a6d2b2dbf.svg",
-    "static/media/food.svg": "/busanzip-front/static/media/food.d50982b6eba4c4a7c5ef394fc51262bc.svg",
+    "static/media/shopping.svg": "/busanzip-front/static/media/shopping.1a8a7dfd631068fd64838a990fbc97bc.svg",
+    "static/media/restaurant.svg": "/busanzip-front/static/media/restaurant.276b6d2ac67b3d999aa69eb206bf3665.svg",
     "static/media/travel.svg": "/busanzip-front/static/media/travel.0c9d1943073c15e583673591e46f3e82.svg",
     "static/media/location.svg": "/busanzip-front/static/media/location.c2d9f370f9927a35f8fa7ac8566671b8.svg",
     "static/media/building.svg": "/busanzip-front/static/media/building.c70118e1df0b844c454034384d9f48f9.svg",
     "index.html": "/busanzip-front/index.html",
     "static/media/arrow-right.svg": "/busanzip-front/static/media/arrow-right.f401f1a40bac21915da14be966f58ebd.svg",
     "static/media/arrow-left.svg": "/busanzip-front/static/media/arrow-left.45994823b0d32586e0f4749a2eb0a788.svg",
-    "main.6ba9a7a5.js.map": "/busanzip-front/static/js/main.6ba9a7a5.js.map",
+    "main.35f9ba5f.js.map": "/busanzip-front/static/js/main.35f9ba5f.js.map",
     "453.4d4ab638.chunk.js.map": "/busanzip-front/static/js/453.4d4ab638.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6ba9a7a5.js"
+    "static/js/main.35f9ba5f.js"
   ]
 }
