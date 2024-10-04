@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/busanzip-front/static/js/main.ae69f887.js",
+    "main.js": "/busanzip-front/static/js/main.c9a15abf.js",
     "static/js/453.4d4ab638.chunk.js": "/busanzip-front/static/js/453.4d4ab638.chunk.js",
     "static/media/Pretendard-Thin.ttf": "/busanzip-front/static/media/Pretendard-Thin.23965237737042c7c087.ttf",
     "static/media/Pretendard-Regular.ttf": "/busanzip-front/static/media/Pretendard-Regular.fbe5b096111efa3e3bc2.ttf",
@@ -18,7 +18,9 @@
     "static/media/restaurant.svg": "/busanzip-front/static/media/restaurant.276b6d2ac67b3d999aa69eb206bf3665.svg",
     "static/media/shopping.svg": "/busanzip-front/static/media/shopping.1a8a7dfd631068fd64838a990fbc97bc.svg",
     "static/media/star.svg": "/busanzip-front/static/media/star.7e225504af0bfb1ac2bfddc37136edcf.svg",
+    "static/media/cost.svg": "/busanzip-front/static/media/cost.3a09322f9ae15ceea47978b44aa8e3d5.svg",
     "static/media/tourist_attraction.svg": "/busanzip-front/static/media/tourist_attraction.664317af901bf7bfe1977477195008e9.svg",
+    "static/media/location.svg": "/busanzip-front/static/media/location.c2d9f370f9927a35f8fa7ac8566671b8.svg",
     "static/media/location-recommand.svg": "/busanzip-front/static/media/location-recommand.112fd565adf337217d0366fbd32b9572.svg",
     "static/media/s1.svg": "/busanzip-front/static/media/s1.2b356e57986651b1efd97663eaa3cc9f.svg",
     "static/media/s2.svg": "/busanzip-front/static/media/s2.ecc436401b7c96f8e192c70f1e795c0d.svg",
@@ -27,19 +29,18 @@
     "static/media/phone.svg": "/busanzip-front/static/media/phone.a57a548750b0e1bf41dc371fcf7bcb4d.svg",
     "static/media/wheelchair.svg": "/busanzip-front/static/media/wheelchair.7e83b37ffd7bceefc0947c8b88493450.svg",
     "static/media/website.svg": "/busanzip-front/static/media/website.76b20d367cb1cf73a74942a49183ea74.svg",
+    "static/media/no-image.svg": "/busanzip-front/static/media/no-image.5cf71cdc241905cf8d3c58f5b9704bb5.svg",
     "static/media/travel.svg": "/busanzip-front/static/media/travel.0c9d1943073c15e583673591e46f3e82.svg",
-    "static/media/location.svg": "/busanzip-front/static/media/location.c2d9f370f9927a35f8fa7ac8566671b8.svg",
-    "static/media/cost.svg": "/busanzip-front/static/media/cost.184467214c89853bc3e654e36cfba1c2.svg",
+    "static/media/time.svg": "/busanzip-front/static/media/time.32e202440bae9322f7d4941fad224529.svg",
     "static/media/building.svg": "/busanzip-front/static/media/building.c70118e1df0b844c454034384d9f48f9.svg",
     "static/media/address.svg": "/busanzip-front/static/media/address.a73f3eaff423a187dc5368e8fe6956c8.svg",
     "index.html": "/busanzip-front/index.html",
-    "static/media/time.svg": "/busanzip-front/static/media/time.d9c672ac4112cf4c48b66c5a8b70102f.svg",
     "static/media/arrow-right.svg": "/busanzip-front/static/media/arrow-right.f401f1a40bac21915da14be966f58ebd.svg",
     "static/media/arrow-left.svg": "/busanzip-front/static/media/arrow-left.45994823b0d32586e0f4749a2eb0a788.svg",
-    "main.ae69f887.js.map": "/busanzip-front/static/js/main.ae69f887.js.map",
+    "main.c9a15abf.js.map": "/busanzip-front/static/js/main.c9a15abf.js.map",
     "453.4d4ab638.chunk.js.map": "/busanzip-front/static/js/453.4d4ab638.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ae69f887.js"
+    "static/js/main.c9a15abf.js"
   ]
 }
